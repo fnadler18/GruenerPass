@@ -1,0 +1,9 @@
+--PROJEKTLEITUNG--
++ Florian Nadler
+
+--PROJEKTMITARBEITER--
++ Fabian Fischer
++ Jan Schwendtner
+
+--PROJEKTMITARBTEITER-STELLVERTRETER--
++ Sandro Greinecker
