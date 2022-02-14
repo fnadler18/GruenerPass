@@ -1,1 +1,5 @@
 Research File
+Ob der Code gültig ist oder nicht ist mit freiem Auge nicht erkennbar, nur durch Scannen mit
+der zweiten App. Auch die Grüner Pass App kontrolliert nicht die Gültigkeit des QR Codes.
+Wird dieser Scann also nicht durchgeführt, können auch Ungeimpfte eine 
+Impfung vorstäuschen, oder einfach dass Zertifikat von jemand anderem verwenden.
