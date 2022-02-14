@@ -26,3 +26,7 @@ https://www.wienerzeitung.at/nachrichten/politik/oesterreich/2113139-Gruener-Pas
 
 
 
+
+So kommen die Zertifikate in die App
+
+Mit der App kann der QR-Code des ausgedruckten Zertifikats gescannt oder das PDF des Zertifikats hinzugefügt werden. Dann wird das Zertifikat in der App in einer vereinfachten Version dargestellt. Die App speichert und verarbeitet die Daten ausschließlich offline, also nur am Mobiltelefon der Benutzerin oder des Benutzers. Eine Speicherung der Zertifikate in einer Cloud, so wie es bei App-Lösungen in der Regel der Fall ist, erfolgt nicht.
