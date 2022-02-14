@@ -24,6 +24,8 @@ https://www.derstandard.at/story/2000131078659/gruener-pass-app-bleibt-unsicher-
 https://www.wienerzeitung.at/nachrichten/politik/oesterreich/2113139-Gruener-Pass-Sicherheitsmaengel-bei-App-festgestellt.html
 https://www.derstandard.at/story/2000131961585/gruener-pass-warum-der-qr-code-immer-gescannt-werden-sollte
 
+Die Studenten haben nun festgestellt, dass zu keinem Zeitpunkt geprüft werde, ob der QR-Code tatsächlich gültig ist. Auch ein Sprecher des BRZ habe gegenüber futurezone bestätigt, dass die Richtigkeit des Zertifikats nicht überprüft werde. Die Überprüfung des Codes erfolge erst durch den Scan mit der zweiten App, Green Check, vor Ort durch das Personal in Restaurants, beim Friseur oder auf Reisen. Allerdings finde diese Überprüfung im Alltag nicht immer statt und es werden lediglich die angezeigten Informationen durchgelesen. Damit werde nicht überprüft, ob jemand tatsächlich auch sein eigenes Impfzertifikat verwendet, theoretisch wäre es damit auch möglich, dass Ungeimpfte eine Impfung vortäuschen.
+
 
 
 
