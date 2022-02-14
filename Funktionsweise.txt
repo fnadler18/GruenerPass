@@ -1,1 +1,20 @@
 Aktuelle Funktionsweise
+
+Grüner Pass (08.September.2021, https://www.oehv.at/themen-recht/corona/der-gruene-pass/):
+Über einen QR-Code wird abgebildet, wer aktuell getestet, genesen oder geimpft ist (Achtung: nur EU-konforme Zertifikate). Seit 01. Juli sind die EU-konformen QR-Codes auf den Zertifikaten nicht nur in Österreich, sondern auch EU-weit lesbar. Den Code kann man via Handysignatur oder Bürgerkarte unter www.gesundheit.gv.at anfordern. Wer weder Bürgerkarte noch Handysignatur hat, kann den QR-Code auf Gemeinde- oder Bezirksämtern sowie den ELGA-Ombudsstellen anfordern.
+
+Neben den Zertifikaten bleiben auch die bereits bestehenden 3G-Nachweise weiterhin gültig.
+
+Die Grüne Pass-App ermöglicht die Speicherung von Zertifikaten mit EU-konformem QR-Code aus Österreich am Mobiltelefon und erleichtert damit den 3G-Nachweis in Österreich und im internationalen Reiseverkehr.
+
+Ausgelesen wird der Code über die GreenCheck Anwendung, die unter www.greencheck.gv.at ohne Authentifizierung aufrufbar ist. Da es sich um eine Web Anwendung handelt, ist auch keine Installation auf dem Smartphone oder anderen Endgeräten notwendig. Der Vorgang beinhaltet folgende fünf Schritte:
+
+1. Öffnen Sie Ihren Internetbrowser
+2. Rufen Sie die Seite www.greencheck.gv.at auf
+3. Erlauben Sie der Anwendung den Zugriff auf Ihre Kamera
+4. Scannen Sie den QR-Code
+5. Interpretieren Sie das Testergebnis (grün/rot)
+
+Es wird nur angezeigt, ob der Zutritt gewährt werden darf oder nicht (nicht angezeigt wird ob genesen, getestet oder geimpft bzw. wie lange der 3G-Status noch gültig ist).
+
+Erst mit einer abgeschlossenen Impfserie gilt eine erhaltene Corona-Schutzimpfung in Österreich als Nachweis im Sinne der 3-G-Regel. Bei zwei notwendigen Teilimpfungen (BioNTech/Pfizer, Moderna, AstraZeneca) gilt das Impfzertifikat ab dem 2. Impftermin, bei Janssen/Johnson&Johnson gilt das Impfzertifikat ab dem 22. Tag nach dem Impftermin. Bei Genesenen mit einer Teilimpfung gilt das Impfzertifikat ab dem Impftermin. Die Gültigkeit des Impfzertifikats beträgt 270 Tage.
