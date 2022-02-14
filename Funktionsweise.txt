@@ -19,7 +19,7 @@ Es wird nur angezeigt, ob der Zutritt gewährt werden darf oder nicht (nicht ang
 
 Erst mit einer abgeschlossenen Impfserie gilt eine erhaltene Corona-Schutzimpfung in Österreich als Nachweis im Sinne der 3-G-Regel. Bei zwei notwendigen Teilimpfungen (BioNTech/Pfizer, Moderna, AstraZeneca) gilt das Impfzertifikat ab dem 2. Impftermin, bei Janssen/Johnson&Johnson gilt das Impfzertifikat ab dem 22. Tag nach dem Impftermin. Bei Genesenen mit einer Teilimpfung gilt das Impfzertifikat ab dem Impftermin. Die Gültigkeit des Impfzertifikats beträgt 270 Tage.
 
-Schachstellen:
+Schwachstellen:
 https://www.derstandard.at/story/2000131078659/gruener-pass-app-bleibt-unsicher-hitler-zertifikate-funktionieren-weiterhin
 https://www.wienerzeitung.at/nachrichten/politik/oesterreich/2113139-Gruener-Pass-Sicherheitsmaengel-bei-App-festgestellt.html
 
