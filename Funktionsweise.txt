@@ -36,3 +36,13 @@ Mit der App kann der QR-Code des ausgedruckten Zertifikats gescannt oder das PDF
 GreenCheck-App zum Überprüfen der Zertifikate
 
 Mit Hilfe der GreenCheck-App können die QR-Codes der Zertifikate des Grünen Passes schnell, unkompliziert und automatisch überprüft werden. Auch bei dieser App werden keine persönlichen Daten übermittelt – die Prüfung erfolgt offline, also nur im Gerät des oder der Prüfenden. Da der EU-konforme QR-Code der Zertifikate nicht von einem gewöhnlichen QR-Code-Reader gelesen werden kann, ist die Überprüfung nur mittels eigens programmierter Anwendung möglich.
+
+Ablauf
+Die Corona-Impfung oder die Genesung im Impfzertifikatsservice dokumentieren
+Um das digitale COVID-Zertifikat der EU für die Impfung oder die Genesung zu erstellen, müssen die Daten der geimpften oder genesenen Person nach der Corona-Impfung, bzw. der Genesung in ein Online-Formular eingegeben werden. Das medizinische Personal meldet sich dafür im Impfzertifikatsservice an. Das digitale COVID-Zertifikat der EU kann anschließend in Form eines QR-Codes digital oder als Ausdruck auf Papier der geimpften Person überreicht werden.
+
+Das digitale COVID-Zertifikat der EU vorzeigen
+Die geimpfte oder genesene Person scannt den QR-Code auf dem digitalen COVID-Impf- oder Genesenenzertifikat der EU. Mit dem QR-Code kann der individuelle Corona-Status digital nachgewiesen werden. Der QR-Code ist kryptografisch mit einer Signatur abgesichert.
+
+Den Status des Zertifikats überprüfen
+Mit der GreenCheck-App kann bei Bedarf das digitale COVID-Zertifikat der EU gescannt und verifiziert werden. Alternativ kann auch ein Zertifikat in Papierform vorgezeigt werden.
