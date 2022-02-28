@@ -46,3 +46,6 @@ Die geimpfte oder genesene Person scannt den QR-Code auf dem digitalen COVID-Imp
 
 Den Status des Zertifikats überprüfen
 Mit der GreenCheck-App kann bei Bedarf das digitale COVID-Zertifikat der EU gescannt und verifiziert werden. Alternativ kann auch ein Zertifikat in Papierform vorgezeigt werden.
+
+Kritk
+https://computerwelt.at/news/geimpft-getestet-genesen-getrickst-qr-codes-sind-eine-tickende-zeitbombe/
