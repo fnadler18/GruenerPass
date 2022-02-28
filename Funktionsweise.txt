@@ -49,3 +49,7 @@ Mit der GreenCheck-App kann bei Bedarf das digitale COVID-Zertifikat der EU gesc
 
 Kritk
 https://computerwelt.at/news/geimpft-getestet-genesen-getrickst-qr-codes-sind-eine-tickende-zeitbombe/
+
+----------------------
+
+Der Grüne Pass ist ganz einfach mit Handysignatur oder Bürgerkarte unter gesundheit.gv.at abrufbar. Alle Zertifikate mit EU-konformem QR-Code können digital, in der App oder in ausgedruckter Form in Kombination mit einem Lichtbildausweis vorgezeigt werden.
