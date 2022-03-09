@@ -1,1 +1,3 @@
 Hier Ideen reinschreiben wie man Grüne Pass app verbessert
+
+Speicherung der Zertifikate in einer Cloud, um zu überprüfen, ob Zertifikat tatsächlich gültig ist. Bessere Verschlüsselung der json-Datei, da diese lediglich durch base45 verschlüsselt sind und somit leicht zu fälschen sind.
