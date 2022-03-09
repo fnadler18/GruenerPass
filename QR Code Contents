@@ -1,0 +1,22 @@
+Signature details
+Algorithm: ES256 (ECDSA w/ SHA-256)
+Key identifier (KID): Is2JtrOJhik=
+Signer: AT DGC DSC 1 (AT), issued by AT DGC CSCA 1 (AT) 
+
+Certificate Type: Recovery
+Schema version: 1.3.0
+Surname(s)
+Name(s)
+Standardized surname(s)
+Standardized name(s)
+Date of birth
+Unique Certificate Identifier (UVCI) (https://ec.europa.eu/health/system/files/2021-03/vaccination-proof_interoperability-guidelines_en_0.pdf)
+Certificate valid from
+Certificate valid until
+Country
+Certificate issuer
+Disease or agent targeted
+Date of First positive NAA test result
+
+Source:
+https://floysh.github.io/DCC-green-pass-decoder/
