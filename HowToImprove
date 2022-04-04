@@ -1,3 +1,22 @@
 Hier Ideen reinschreiben wie man Grüne Pass app verbessert
 
-Speicherung der Zertifikate in einer Cloud, um zu überprüfen, ob Zertifikat tatsächlich gültig ist. Bessere Verschlüsselung der json-Datei, da diese lediglich durch base45 verschlüsselt sind und somit leicht zu fälschen sind.
+Speicherung der Zertifikate in einer Cloud, um zu überprüfen, ob Zertifikat tatsächlich gültig ist. 
+Bessere Verschlüsselung der json-Datei, da diese lediglich durch base45 verschlüsselt sind und somit leicht zu fälschen sind.
+
+**Vorteile unserer Lösung:**
+* Zertifikate fälschen fast nicht möglich der einzige Weg wäre, den Grünen Pass einer anderen Person zu nehmen und hoffen, dass die kontrollierende Person nicht einen
+Lichtbildausweis verlangt.
+* Da die Zertifikate in der Cloud gespeichert sind kann man auch die Zertifikate löschen und die Personen benachrichtigen, dass das Zertifikat abgelaufen ist.
+Somit auch Sicherheit, dass Personen keine abgelaufenen Zertifikate verwenden.
+* Zertifikate können auch ohne etwas neu einscannen zu müssen von außen verändert werden, falls z.B etwas falsch angegeben wurde kann man dies ganz leicht wieder ausbessern.
+
+**Nachteile unserer Lösung:**
+Mitarbeiter die Zugang zur Cloud haben könnten Daten ändern somit wieder erhöhte Korruption
+Falls Cloud nicht erreichbar könnten die Nutzer ihre Zertifikate nicht abrufen -> Lösung wäre sozusagen ein offline Dokument noch auf dem Gerät zu speichern
+welches aber bei jeder Nutzung der App aktualisiert wird, falls Cloud erreichbar ist.
+
+Notfalls könnten die Nutzer aber auch einfach selbst Initiative ergreifen und Screenshots machen.
+
+**Datenschutz:**
+Höchstens für Mitarbeiter wären die Daten einsehbar man könnte aber wirklich private Namen auch verschlüsseln sodass die Mitarbeiter nur Datum und ähnliches der Zertifikate sehen
+können
